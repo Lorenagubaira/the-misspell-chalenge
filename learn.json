@@ -7,7 +7,7 @@
   	"visibility": "internal",
 	"translations": ["es", "en"],
 	"duration" : 6,
-	"agent": "vscode"
+	"agent": "vscode",
 	"difficulty": "easy",
 	"technologies": ["github", "git"],	
 	"description" : "Your first open-source contribution",
